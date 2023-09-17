@@ -1,0 +1,26 @@
+[
+  {
+    "legajo": "1",
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "año": 2022
+  },
+  {
+    "legajo": "2",
+    "nombre": "Maria",
+    "apellido": "Antonieta de las nieves como la chilindrina",
+    "año": 2021
+  },
+  {
+    "legajo": "3",
+    "nombre": "Ahri",
+    "apellido": "Lee sin",
+    "año": 2021
+  },
+  {
+    "legajo": "4",
+    "nombre": "mate",
+    "apellido": "garcia",
+    "año": 2021
+  }
+]
